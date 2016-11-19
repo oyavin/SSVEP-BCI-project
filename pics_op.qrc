@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>checkered_arrow_3_down_op.png</file>
+        <file>checkered_arrow_3_left_op.png</file>
+        <file>checkered_arrow_3_right_op.png</file>
+        <file>checkered_arrow_3_up_op.png</file>
+    </qresource>
+</RCC>
